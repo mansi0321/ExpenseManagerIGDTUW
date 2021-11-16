@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/devel/AndroidStudioProjects/ExpenseManagerIGDTUW/app/src/main/res/drawable/ic_login.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/devel/AndroidStudioProjects/ExpenseManagerIGDTUW/app/src/main/res/layout/activity_mobile.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/devel/AndroidStudioProjects/ExpenseManagerIGDTUW/app/src/main/res/layout/activity_splash_screen.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/devel/AndroidStudioProjects/ExpenseManagerIGDTUW/app/src/main/res/layout/activity_verify.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/devel/AndroidStudioProjects/ExpenseManagerIGDTUW/app/src/main/res/layout/verify_activity.xml" value="0.1793478260869565" />
         <entry key="..\:/Users/devel/OneDrive/Desktop/unit4/ExpenseManager/app/src/main/res/drawable/close_bg.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/devel/OneDrive/Desktop/unit4/ExpenseManager/app/src/main/res/drawable/ic_description_focused.xml" value="0.14322916666666666" />
         <entry key="..\:/Users/devel/OneDrive/Desktop/unit4/ExpenseManager/app/src/main/res/drawable/ic_label_focused.xml" value="0.14322916666666666" />
